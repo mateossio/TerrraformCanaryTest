@@ -1,6 +1,9 @@
 # Learn Terraform Advanced Deployment Strategies
 
-Learn how to use Terraform and AWS's Application Load Balancers and EC2 instances for canary tests and blue/green deployments. Learn how to add feature flags to your Terraform configuration by using variables and conditionals.
+Learn how to use Terraform as well as AWS's Application Load Balancers and EC2 instances for canary tests and blue/green deployments. Learn how to add feature flags to your Terraform configuration by using variables and conditionals.
+
+## How does it work?
+![Blue&Green Canary Test](/aws-diagram.png)
 
 ## Steps to run
 
